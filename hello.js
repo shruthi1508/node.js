@@ -1,5 +1,5 @@
-const hello = () => {
+const hii = () => {
   console.log("Hello everyone!!");
 };
 
-hello();
+hii();
